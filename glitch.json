@@ -1,0 +1,3 @@
+{
+	"start": "chmod 777 /app/main.sh && ./main.sh"
+}
