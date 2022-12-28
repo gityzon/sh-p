@@ -1,4 +1,3 @@
-######请添加环境变量"uuid",否则xray无效
 #删除panindex并重新启动以更新PanIndex.
 #后台地址（默认）：http://ip:port/admin 默认密码：PanIndex 第一次安装后需要进行配置， 请务必修改默认密码
 
