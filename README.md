@@ -1,6 +1,6 @@
 # sh-p
 
-Run Alist on replit
+Run PanIndex on replit
 
 #### APP:
 
